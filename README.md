@@ -1,4 +1,8 @@
 Original = https://github.com/stayfrostydoggo/Funny-Stuff-IG/blob/main/freevbucks.py
+
+
+
+
 Author = starfrostydoggo (Aka Bored)
 
 Edited by: Celvis
