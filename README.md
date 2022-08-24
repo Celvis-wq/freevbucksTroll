@@ -20,3 +20,5 @@ PLEASE NOTE: This program is not done, I will continue working on it and finish 
 What does this program run on?
 
 This program runs on any linux operating system. Ex: Ubuntu
+
+(Windows support soon)
