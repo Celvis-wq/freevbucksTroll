@@ -3,10 +3,7 @@
 # Edited by: Celvis
 # Discord: Celvis#1772
 # Original = https://github.com/stayfrostydoggo/Funny-Stuff-IG/blob/main/freevbucks.py
-# Author = starfrostydoggo (Aka Bored)
-
-
-ALMOST DONE. NOT DONE YET.
+# Author = stayfrostydoggo (Aka Bored)
 """
 
 # Import Modules
