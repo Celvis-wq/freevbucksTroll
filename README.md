@@ -3,7 +3,7 @@ Original = https://github.com/stayfrostydoggo/Funny-Stuff-IG/blob/main/freevbuck
 
 
 
-Author = starfrostydoggo (Aka Bored)
+Author = stayfrostydoggo (Aka Bored)
 
 Edited by: Celvis
 
