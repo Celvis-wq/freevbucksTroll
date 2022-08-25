@@ -21,4 +21,10 @@ What does this program run on?
 
 This program runs on any linux operating system. Ex: Ubuntu
 
+
+Changelog:
+
+
+https://pastebin.com/raw/neyY7kYV
+
 (Windows support soon)
