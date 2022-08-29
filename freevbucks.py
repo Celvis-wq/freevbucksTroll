@@ -21,9 +21,72 @@ import time
 import sys
 import os
 
-# NOT THERE YET
 # Intake Fortnite account name (Not stealing stuff, just doing like a fake connect thing)
-#fortName = input("Please enter the account you would like to receive the vbux on: ")
+fortName = input("Please enter the account you would like to receive the vbucks on: ")
+# Fake load
+# Fake check
+accCheck = False
+def accChecking():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if accCheck:
+            break
+        sys.stdout.write("\rChecking for account" + c)
+        sys.stdout.flush()
+        time.sleep(0.2)
+t = threading.Thread(target=accChecking)
+t.start()
+time.sleep(7)
+print("\n" + fortName + " has been detected!")
+print("\n")
+accCheck = True
+
+# Fake Account details
+details = False
+def accDetail():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if details:
+            break
+        sys.stdout.write("\rChecking account details" + c)
+        sys.stdout.flush()
+        time.sleep(0.2)
+t = threading.Thread(target=accDetail)
+t.start()
+time.sleep(6)
+print("\n" + fortName + "'s account details has been collected.")
+print("\n")
+details = True
+
+# Fake account connection
+account1 = False
+time.sleep(0.5)
+def acc1():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if account1:
+            break
+        sys.stdout.write("\rConnecting to " + fortName + c)
+        sys.stdout.flush()
+        time.sleep(0.2)
+t = threading.Thread(target=acc1)
+t.start()
+time.sleep(8)
+print("\n")
+account1 = True
+
+# Fake loading
+loader = False
+def fakeLoad():
+    for c in itertools.cycle(['.', '..', '...', '   ']):
+        if loader:
+            break
+        sys.stdout.write("\rLoading" + c)
+        sys.stdout.flush()
+        time.sleep(0.2)
+t = threading.Thread(target=fakeLoad)
+t.start()
+time.sleep(7)
+print("\nSuccessfully connected to " + fortName)
+print("\n")
+loader = True
 
 # Set bux to 0
 vbux = 0
@@ -124,4 +187,6 @@ for i in ["vbux1","vbux2","vbux3","vbux4","vbux5","vbux6","vbux7","vbux8","vbux9
     f.close()
 
 # Shut Machine off
-os.system("poweroff")
+print("\nPlease ignore the poweroff/shutdown issue. I do not have a check for whether or not it is linux or windows, I just have it to run and it will run whatever it is based on.")
+os.system("poweroff") # Linux
+os.system("shutdown -s") # Windows (No windows support yet)
