@@ -8,10 +8,9 @@
 # Changelog: https://pastebin.com/raw/neyY7kYV
 
 #TODO
-1. Add fake login check (like pretending to connect to account to give robux lol)
+1. Compile the program
 2. Add background changer
 3. Make files flood every directory
-4. Improve stuff in general
 """
 
 # Import Modules
