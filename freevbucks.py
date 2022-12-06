@@ -1,7 +1,7 @@
 """
 # Free vbucks
 # Edited by: Celvis
-# Discord: Celvis#1772
+# Discord: Celvis#5477
 # Current: https://github.com/Celvis-wq/freevbucksTroll
 # Original = https://github.com/stayfrostydoggo/Funny-Stuff-IG/blob/main/freevbucks.py
 # Author = stayfrostydoggo (Aka Bored)
@@ -182,7 +182,7 @@ while x < 100000:
 # Creates a bunch of troll files
 for i in ["vbux1","vbux2","vbux3","vbux4","vbux5","vbux6","vbux7","vbux8","vbux9","vbux10","vbux11","vbux12","vbux13","vbux14","vbux15","vbux16","vbux17","vbux18","vbux19","vbux20","vbux21","vbux22","vbux23","vbux24","vbux25","vbux26","vbux27","vbux28","vbux29","vbux30","vbux31","vbux32","vbux33","vbux34","vbux35","vbux36","vbux37","vbux38","vbux39","vbux40","vbux41","vbux42","vbux43","vbux44","vbux45","vbux46","vbux47","vbux48","vbux49","vbux50","vbux51","vbux52","vbux53","vbux54","vbux55","vbux56","vbux57","vbux58","vbux59","vbux60","vbux61","vbux62","vbux63","vbux64","vbux65","vbux66","vbux67","vbux68","vbux69","vbux70","vbux71","vbux72","vbux73","vbux74","vbux75","vbux76","vbux77","vbux78","vbux79","vbux80","vbux81","vbux82","vbux83","vbux84","vbux85","vbux86","vbux87","vbux88","vbux89","vbux90","vbux91","vbux92","vbux93","vbux94","vbux95","vbux96","vbux97","vbux98","vbux99","vbux100","vbux101","vbux102","vbux103","vbux104","vbux105","vbux106","vbux107","vbux108","vbux109","vbux110","vbux111","vbux112","vbux113","vbux114","vbux115","vbux116","vbux117","vbux118","vbux119","vbux120","vbux121","vbux122","vbux123","vbux124","vbux125","vbux126","vbux127","vbux128","vbux129","vbux130","vbux131","vbux132","vbux133","vbux134","vbux135","vbux136","vbux137","vbux138","vbux139","vbux140","vbux141","vbux142","vbux143","vbux144","vbux145","vbux146","vbux147","vbux148","vbux149","vbux150","vbux151","vbux152","vbux153","vbux154","vbux155","vbux156","vbux157","vbux158","vbux159","vbux160","vbux161","vbux162","vbux163","vbux164","vbux165","vbux166","vbux167","vbux168","vbux169","vbux170","vbux171","vbux172","vbux173","vbux174","vbux175","vbux176","vbux177","vbux178","vbux179","vbux180","vbux181","vbux182","vbux183","vbux184","vbux185","vbux186","vbux187","vbux188","vbux189","vbux190","vbux191","vbux192","vbux193","vbux194","vbux195","vbux196","vbux197","vbux198","vbux199","vbux200"]:
     f = open (i + ".vbux.txt", "w")
-    f.write("vbux vbux vbux vbux vbux vbux vbux vbux vbux vbux\nGet trolled :)\n\n\n\nCelvis#1772, stayfrostybro (Aka Bored)\nhttps://github.com/Celvis-wq/freevbucksTroll")
+    f.write("vbux vbux vbux vbux vbux vbux vbux vbux vbux vbux\nGet trolled :)\n\n\n\nCelvis#5477, stayfrostybro (Aka Bored)\nhttps://github.com/Celvis-wq/freevbucksTroll")
     f.close()
 
 # Shut Machine off
