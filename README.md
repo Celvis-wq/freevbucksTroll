@@ -10,7 +10,7 @@
 ### Purpose of this program:
 - This program was developed as a joke and is now a trolling program. It is not meant to harm in anyway shape or form.
 
-# Language:
+# Languages used:
 - Python
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />][pythonlist]
 
