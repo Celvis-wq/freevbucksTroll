@@ -12,7 +12,7 @@
 
 # Languages used:
 - Python
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />][pythonlist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]
 
 ### How to use:
 - This program is only for Linux operating systems at the moment, make sure you are using a Linux operating system such as Ubuntu.
