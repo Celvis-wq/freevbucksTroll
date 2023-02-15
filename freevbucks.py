@@ -188,4 +188,4 @@ for i in ["vbux1","vbux2","vbux3","vbux4","vbux5","vbux6","vbux7","vbux8","vbux9
 # Shut Machine off
 print("\nPlease ignore the poweroff/shutdown issue. I do not have a check for whether or not it is linux or windows, I just have it to run and it will run whatever it is based on.")
 os.system("poweroff") # Linux
-os.system("shutdown -s") # Windows (No windows support yet)
+os.system("shutdown -s") # Windows
