@@ -13,7 +13,8 @@
 # Languages used:
 - Python
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-
+<br />
+<br />
 ### How to use:
 - This program is only for Linux operating systems at the moment, make sure you are using a Linux operating system such as Ubuntu.
 - Be on the latest version of python
